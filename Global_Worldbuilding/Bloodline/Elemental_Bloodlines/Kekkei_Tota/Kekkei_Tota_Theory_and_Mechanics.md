@@ -63,7 +63,7 @@ Both the Strong and Weak nuclear forces deal with the binding and decay of parti
 #### 1. Dust Release (Strong Force)
 *   **Elements:** Earth + Fire + Wind
 *   **Differentiation:** The Strong Force binds matter together. To manipulate this, Wind is added. In the elemental cycle, Wind is superior to Lightning. It represents the "Strong" aspect: the binding pressure and the vacuum that holds the nucleus.
-*   **Function:** Disassembling matter at the molecular level (breaking the strong force binding).
+*   **Function:** Disassembling matter at the atomic level (breaking the strong force binding).
 
 #### 2. Alchemic Release (Weak Force)
 *   **Elements:** Earth + Fire + Lightning
