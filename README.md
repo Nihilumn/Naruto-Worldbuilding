@@ -4,22 +4,56 @@ A collaborative repository for expanded Naruto Fanon Worldbuilding.
 
 ## Repository Structure
 
+```text
+Naruto-Worldbuilding/
+├── Global_Worldbuilding/
+│   ├── Bloodline/
+│   │   └── Elemental_Bloodlines/
+│   │       ├── Kekkei_Genkai/   (2-Element Combinations)
+│   │       └── Kekkei_Tota/     (3-Element Combinations)
+│   ├── Squads_and_Specializations/
+│   └── World_Demographics/
+│
+├── Fire_Nation/
+│   ├── National_Lore_and_Geography/
+│   └── Konohagakure/
+│       ├── Government_and_Institutions/
+│       ├── Ranks_and_Hierarchy/
+│       └── Demographics_and_Clans/
+│
+├── Wind_Nation/
+│   ├── National_Lore_and_Geography/
+│   └── Sunagakure/ [Subfolders]
+│
+├── Water_Nation/
+│   ├── National_Lore_and_Geography/
+│   └── Kirigakure/ [Subfolders]
+│
+├── Earth_Nation/
+│   ├── National_Lore_and_Geography/
+│   └── Iwagakure/ [Subfolders]
+│
+└── Lightning_Nation/
+    ├── National_Lore_and_Geography/
+    └── Kumogakure/ [Subfolders]
+```
+
 ### Global Worldbuilding
 General lore applicable to the entire world or shared systems.
-- **Bloodline/**: Contains Elemental Bloodlines (Kekkei Genkai & Kekkei Tota).
+- **Bloodline/**: Contains Elemental Bloodlines.
 - **Squads_and_Specializations/**: Standardized team formations and role descriptions.
 - **World_Demographics/**: Global clan lists and population data.
 
 ### Nations
-Specific lore for the Five Great Nations. Each nation folder is divided into two main sections:
+Specific lore for the Five Great Nations. Each nation folder is divided into:
 
 1. **National_Lore_and_Geography/**
    - Information regarding the Daimyo, civilian capitals, geography, economy, and non-shinobi culture.
 
-2. **[Village Name]/** (e.g., Konohagakure)
-   - **Government_and_Institutions/**: Administrative bodies, councils, and departments.
-   - **Ranks_and_Hierarchy/**: Chains of command, promotion protocols, and badging.
-   - **Demographics_and_Clans/**: Population statistics and village-specific clan details.
+2. **Hidden Village (e.g., Konohagakure)**
+   - **Government_and_Institutions/**: Administrative bodies and councils.
+   - **Ranks_and_Hierarchy/**: Chains of command and badging.
+   - **Demographics_and_Clans/**: Population stats and specific clan details.
 
 ## Contributing
 Please follow the folder structure when adding new files.
