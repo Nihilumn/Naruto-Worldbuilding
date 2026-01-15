@@ -12,6 +12,8 @@ Naruto-Worldbuilding/
 │   │       ├── Kekkei_Genkai/   (2-Element Combinations)
 │   │       └── Kekkei_Tota/     (3-Element Combinations)
 │   ├── Squads_and_Specializations/
+│   │   ├── Squad_Types/         (Standardized squad formations e.g., Assault, Guard, etc.)
+│   │   └── Specializations/     (Individual SFF-certified roles e.g., Tracker, Medic, etc.)
 │   └── World_Demographics/
 │
 ├── Fire_Nation/
@@ -42,6 +44,8 @@ Naruto-Worldbuilding/
 General lore applicable to the entire world or shared systems.
 - **Bloodline/**: Contains Elemental Bloodlines.
 - **Squads_and_Specializations/**: Standardized team formations and role descriptions.
+   + **Squad_Types/**: Detailed composition and strategies for standard tactical units.
+   + **Specializations/**: Individual role descriptions, operational variants, and Shinobi Field Forces (SFF) certification details.
 - **World_Demographics/**: Global clan lists and population data.
 
 ### Nations
